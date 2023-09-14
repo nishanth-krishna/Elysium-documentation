@@ -4,7 +4,7 @@ title: Overview
 parent: Elysium documentation
 nav_order: 2
 redirect_from: /opensearch/install/quickstart/
-permalink: /
+permalink: /overview.html
 ---
 
 # Overview

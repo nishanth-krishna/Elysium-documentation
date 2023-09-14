@@ -5,7 +5,7 @@ parent: Elysium documentation
 nav_order: 3
 redirect_from: 
   - /opensearch/install/quickstart/
-permalink: /
+permalink: /quickstart.html
 ---
 
 # Quickstart

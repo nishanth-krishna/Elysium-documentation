@@ -23,8 +23,12 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: "3.0" # Not needed with a .ruby-version file
+        ruby-version: "2.7" # Not needed with a .ruby-version file
         bundler-cache: true
+    - name: Install and specify platform
+      run: |
+        bundle lock --add-platform x86_64-linux
+        bundle install
     - name: "Build Site"
       run: bundle exec jekyll build
       env:

@@ -3,6 +3,7 @@ layout: default
 title: Elysium documentation
 nav_order: 1
 has_children: true
+redirect_from: /index.html
 permalink: /
 ---
 

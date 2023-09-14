@@ -4,6 +4,8 @@ title: Using Dashboards Query Language
 parent: Exploring Data
 grand_parent: Opensearch Dashboard
 nav_order: 14
+redirect_from: /analytics/opensearch-dashboard/exploring-data/using-dql/
+permalink: /analytics/opensearch-dashboard/exploring-data/using-dql/index.html
 ---
 
 # Using Dashboards Query Language

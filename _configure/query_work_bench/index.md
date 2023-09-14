@@ -5,6 +5,7 @@ nav_order: 50
 has_children: false
 redirect_from: /configure/query-workbench/
 has_toc: false
+permalink: /configure/query-workbench/index.html
 ---
 
 # Elysium Query Workbench

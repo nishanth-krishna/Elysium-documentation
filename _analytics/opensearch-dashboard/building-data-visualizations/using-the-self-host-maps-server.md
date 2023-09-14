@@ -4,6 +4,8 @@ title: Using the self-host maps server
 parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 nav_order: 15
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/selfhost-maps-server/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/selfhost-maps-server/index.html
 ---
 
 # Using the self-host maps server

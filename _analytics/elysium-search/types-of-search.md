@@ -4,6 +4,8 @@ title: Types of Search
 parent: Discover
 # grand_parent: Log Analytics
 nav_order: 12
+redirect_from: analytics/discover/types-of-search
+permalink: /analytics/discover/types-of-search/index.html
 ---
 
 # Types of Search

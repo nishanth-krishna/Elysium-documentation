@@ -6,8 +6,8 @@ parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 has_children: true
 has_toc: false
-redirect_from:
-  - /documentation/log-analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/index.html
 --- 
 
 # Creating reports with the Reporting CLI

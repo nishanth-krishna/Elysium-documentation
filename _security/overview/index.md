@@ -4,6 +4,7 @@ title: Overview
 nav_order: 50
 has_children: false
 redirect_from: /security/overview/
+permalink: /security/overview/index.html
 has_toc: false
 ---
 

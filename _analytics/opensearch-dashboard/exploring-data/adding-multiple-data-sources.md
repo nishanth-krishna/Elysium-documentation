@@ -4,6 +4,8 @@ title: Adding multiple data sources
 parent: Exploring Data
 grand_parent: Opensearch Dashboard
 nav_order: 12
+redirect_from: /analytics/opensearch-dashboard/exploring-data/add-datasources/
+permalink: /analytics/opensearch-dashboard/exploring-data/add-datasources/index.html
 ---
 
 # Adding multiple data sources.

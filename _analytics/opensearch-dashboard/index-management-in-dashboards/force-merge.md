@@ -4,6 +4,8 @@ title: Force merge
 parent: Index management in Dashboards
 grand_parent: Opensearch Dashboard
 nav_order: 26
+redirect_from: /analytics/opensearch-dashboard/index-management-in-dashboards/force-merge/
+permalink: /analytics/opensearch-dashboard/index-management-in-dashboards/force-merge/index.html
 ---
 
 # Force merge

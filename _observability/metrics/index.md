@@ -4,6 +4,7 @@ title: Metrics
 nav_order: 50
 has_children: false
 redirect_from: /observability/metrics/
+permalink: /observability/metrics/index.html
 has_toc: false
 ---
 

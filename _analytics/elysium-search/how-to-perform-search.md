@@ -4,6 +4,8 @@ title: How to Perform Search
 parent: Discover
 # grand_parent: Log Analytics
 nav_order: 11
+redirect_from: analytics/discover/perform-search
+permalink: /analytics/discover/perform-search/index.html
 ---
 
 # How to Perform a Search

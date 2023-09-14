@@ -4,6 +4,8 @@ title: Customizing Your Branding
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 11
+redirect_from: /analytics/opensearch-dasboard/customize-brand/
+permalink: /analytics/opensearch-dasboard/customize-brand/index.html
 ---
 
 # Customizing your branding

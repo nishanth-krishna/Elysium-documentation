@@ -4,6 +4,7 @@ title: Alerts
 nav_order: 50
 has_children: false
 redirect_from: /security/alerts/
+permalink: /security/alerts/index.html
 has_toc: false
 ---
 

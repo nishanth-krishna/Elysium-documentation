@@ -5,6 +5,7 @@ nav_order: 40
 has_children: false
 redirect_from: /analytics/overview/
 has_toc: false
+permalink: /analytics/overview/index.html
 ---
 
 # Elysium Overview

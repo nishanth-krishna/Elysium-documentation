@@ -4,6 +4,7 @@ title: Settings
 nav_order: 50
 has_children: false
 redirect_from: /user-management/settings/
+permalink: /user-management/settings/index.html
 has_toc: false
 ---
 

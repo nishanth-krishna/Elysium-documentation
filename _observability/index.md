@@ -3,9 +3,8 @@ layout: default
 title: Observability
 nav_order: 1
 has_children: false
-redirect_from:
-  - /observability/
-  - /obs/
+redirect_from: /observability/
+permalink: /observability/index.html
 has_toc: false
 nav_exclude: true
 ---

@@ -4,6 +4,8 @@ title: Scheduling reports with AWS Lambda
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 21
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/schedule-aws-reports/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/schedule-aws-reports/index.html
 ---
 
 # Scheduling reports with AWS Lambda

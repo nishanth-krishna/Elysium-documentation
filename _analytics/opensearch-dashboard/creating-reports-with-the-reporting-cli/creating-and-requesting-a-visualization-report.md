@@ -4,6 +4,8 @@ title: Creating and requesting a visualization report
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 19
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/create-viz-report/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/create-viz-report/index.html
 ---
 
 # Creating and requesting a visualization report

@@ -6,8 +6,8 @@ parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 has_children: true
 has_toc: false
-redirect_from:
-  - /documentation/log-analytics/opensearch-dashboard/index-management-in-dashboards
+redirect_from: /analytics/opensearch-dashboard/index-management-in-dashboards/
+permalink: /analytics/opensearch-dashboard/index-management-in-dashboards/index.html
 --- 
 
 # Index management in Dashboards

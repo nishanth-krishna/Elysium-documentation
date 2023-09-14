@@ -4,6 +4,8 @@ title: Creating dashboards
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 12
+redirect_from: /analytics/opensearch-dasboard/create-dashboard/
+permalink: /analytics/opensearch-dasboard/create-dashboard/index.html
 ---
 
 # Creating dashboards

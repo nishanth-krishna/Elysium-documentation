@@ -4,6 +4,8 @@ title: Settig the time filter
 parent: Exploring Data
 grand_parent: Opensearch Dashboard
 nav_order: 13
+redirect_from: /analytics/opensearch-dashboard/exploring-data/settime-filter/
+permalink: /analytics/opensearch-dashboard/exploring-data/settime-filter/index.html
 ---
 
 

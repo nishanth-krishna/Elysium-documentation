@@ -4,6 +4,8 @@ title: Guide for opensearch Dashboard
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 10
+redirect_from: /analytics/opensearch-dasboard/opensearch-search-guide/
+permalink: /analytics/opensearch-dasboard/opensearch-search-guide/index.html
 ---
 
 # Guide for OpenSearch Dashboard

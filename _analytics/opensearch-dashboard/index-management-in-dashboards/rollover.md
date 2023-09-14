@@ -4,6 +4,8 @@ title: Rollover
 parent: Index management in Dashboards
 grand_parent: Opensearch Dashboard
 nav_order: 28
+redirect_from: /analytics/opensearch-dashboard/index-management-in-dashboards/rollover/
+permalink: /analytics/opensearch-dashboard/index-management-in-dashboards/rollover/index.html
 ---
 
 # Rollover

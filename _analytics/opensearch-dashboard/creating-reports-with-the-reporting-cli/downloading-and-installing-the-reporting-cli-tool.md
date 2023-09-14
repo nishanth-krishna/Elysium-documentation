@@ -4,6 +4,8 @@ title: Downloading and installing the Reporting CLI tool
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 19
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/download-cli/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/download-cli/index.html
 ---
 
 # Downloading and installing the Reporting CLI tool

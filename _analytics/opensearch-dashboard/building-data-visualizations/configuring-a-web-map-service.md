@@ -4,6 +4,8 @@ title: Configuring a Web Map Service (WMS)
 parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 nav_order: 14
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/conf-wms/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/conf-wms/index.html
 ---
 
 # Configuring a Web Map Service (WMS)

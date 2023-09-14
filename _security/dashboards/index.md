@@ -4,6 +4,7 @@ title: Dashboards
 nav_order: 50
 has_children: true
 redirect_from: /security/dashboards/
+permalink: /security/dashboards/index.html
 has_toc: true
 ---
 

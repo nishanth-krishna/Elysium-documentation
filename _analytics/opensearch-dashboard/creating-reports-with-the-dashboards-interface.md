@@ -4,6 +4,8 @@ title: Creating reports with the Dashboards interface
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 17
+redirect_from: /analytics/opensearch-dasboard/create-reports-dashboard/
+permalink: /analytics/opensearch-dasboard/create-reports-dashboard/index.html
 ---
 
 # Creating reports with the Dashboards interface

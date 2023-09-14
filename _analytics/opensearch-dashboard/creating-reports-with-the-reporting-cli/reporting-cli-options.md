@@ -4,6 +4,8 @@ title: Reporting CLI options
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 22
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/reporting-cli-options/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/reporting-cli-options/index.html
 ---
 
 # Reporting CLI options

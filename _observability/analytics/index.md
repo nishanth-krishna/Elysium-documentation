@@ -4,6 +4,7 @@ title: Analytics
 nav_order: 50
 has_children: false
 redirect_from: /observability/analytics/
+permalink: /observability/analytics/index.html
 has_toc: false
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Build You Own Dashboards
 parent: Dashboards
 nav_order: 15
+redirect_from: /security/dashboards/byod/
+permalink: /security/dashboards/byod/index.html
 ---
 
 

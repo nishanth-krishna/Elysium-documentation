@@ -4,6 +4,8 @@ title: Using environment variables with the Reporting CLI
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 22
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/using-env/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/using-env/index.html
 ---
 
 # Using environment variables with the Reporting CLI

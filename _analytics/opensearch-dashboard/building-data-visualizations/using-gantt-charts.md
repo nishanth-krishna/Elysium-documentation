@@ -4,6 +4,8 @@ title: Gantt charts
 parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 nav_order: 16
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/using-gantt/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/using-gantt/index.html
 ---
 
 # Gantt charts

@@ -4,6 +4,8 @@ title: Indexes
 parent: Index management in Dashboards
 grand_parent: Opensearch Dashboard
 nav_order: 25
+redirect_from: /analytics/opensearch-dashboard/index-management-in-dashboards/indexes/
+permalink: /analytics/opensearch-dashboard/index-management-in-dashboards/indexes/index.html
 ---
 
 # Indexes

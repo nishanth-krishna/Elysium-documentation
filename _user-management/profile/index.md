@@ -4,6 +4,7 @@ title: User Profile
 nav_order: 40
 has_children: false
 redirect_from: /user-management/user-profile/
+permalink: /user-management/ser-profile/index.html
 has_toc: false
 ---
 

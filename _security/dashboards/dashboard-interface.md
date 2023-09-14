@@ -3,6 +3,8 @@ layout: default
 title: Dashboard Interface
 parent: Dashboards
 nav_order: 11
+redirect_from: /security/dashboards/interface/
+permalink: /security/dashboards/interface/index.html
 ---
 
 

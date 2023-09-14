@@ -3,6 +3,8 @@ layout: default
 title: Metadata Models
 parent: Dashboards
 nav_order: 14
+redirect_from: /security/dashboards/metadata-models/
+permalink: /security/dashboards/metadata-models/index.html
 ---
 
 

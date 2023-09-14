@@ -3,6 +3,8 @@ layout: default
 title: Users
 parent: Admin
 nav_order: 11
+redirect_from: /user-management/admin/users/
+permalink: /user-management/admin/users/index.html
 ---
 
 

@@ -5,6 +5,7 @@ nav_order: 50
 has_children: false
 redirect_from: /configure/integrations/
 has_toc: false
+permalink: /configure/integrations/index.html
 ---
 
 # Elysium Integrations

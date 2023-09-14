@@ -3,6 +3,8 @@ layout: default
 title: Roles
 parent: Admin
 nav_order: 11
+redirect_from: /user-management/admin/roles/
+permalink: /user-management/admin/roles/index.html
 ---
 
 

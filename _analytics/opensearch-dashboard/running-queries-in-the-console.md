@@ -4,6 +4,8 @@ title: Running queries in the console
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 32
+redirect_from: /analytics/opensearch-dasboard/run-queries/
+permalink: /analytics/opensearch-dasboard/run-queries/index.html
 ---
 
 # Running queries in the console

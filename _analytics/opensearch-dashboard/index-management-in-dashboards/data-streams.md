@@ -4,6 +4,8 @@ title: Data streams
 parent: Index management in Dashboards
 grand_parent: Opensearch Dashboard
 nav_order: 26
+redirect_from: /analytics/opensearch-dashboard/index-management-in-dashboards/data-streams/
+permalink: /analytics/opensearch-dashboard/index-management-in-dashboards/data-streams/index.html
 ---
 
 # Data streams

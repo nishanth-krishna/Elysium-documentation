@@ -3,6 +3,8 @@ layout: default
 title: List of Dashboards
 parent: Dashboards
 nav_order: 13
+redirect_from: /security/dashboards/list/
+permalink: /security/dashboards/list/index.html
 ---
 
 

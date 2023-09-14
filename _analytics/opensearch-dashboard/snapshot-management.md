@@ -4,6 +4,8 @@ title: Snapshot management
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 30
+redirect_from: /analytics/opensearch-dasboard/snapshot-management
+permalink: /analytics/opensearch-dasboard/snapshot-management/index.html
 ---
 
 # Snapshot management

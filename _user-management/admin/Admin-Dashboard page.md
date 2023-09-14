@@ -3,6 +3,8 @@ layout: default
 title: Dashboards
 parent: Admin
 nav_order: 11
+redirect_from: /user-management/admin/dashboards/
+permalink: /user-management/admin/dashboards/index.html
 ---
 
 # Dashboards

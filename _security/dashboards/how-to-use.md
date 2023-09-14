@@ -3,6 +3,8 @@ layout: default
 title: How to Use
 parent: Dashboards
 nav_order: 12
+redirect_from: /security/dashboards/how-to-use/
+permalink: /security/dashboards/how-to-use/index.html
 ---
 
 

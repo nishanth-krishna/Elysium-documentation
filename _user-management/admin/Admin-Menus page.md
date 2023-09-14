@@ -3,6 +3,8 @@ layout: default
 title: Menus
 parent: Admin
 nav_order: 11
+redirect_from: /user-management/admin/menus/
+permalink: /user-management/admin/menus/index.html
 ---
 
 

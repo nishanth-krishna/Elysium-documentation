@@ -3,6 +3,8 @@ layout: default
 title: Data Connections
 parent: Admin
 nav_order: 11
+redirect_from: /user-management/admin/data-connections/
+permalink: /user-management/admin/data-connections/index.html
 ---
 
 

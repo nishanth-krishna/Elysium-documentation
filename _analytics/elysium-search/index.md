@@ -5,8 +5,8 @@ nav_order: 1
 # parent: Log Analytics
 has_children: true
 # has_toc: false
-redirect_from:
-  - /documentation/analytics/discover/
+redirect_from: /analytics/discover/
+permalink: /analytics/discover/index.html
 ---
 
 # Overview

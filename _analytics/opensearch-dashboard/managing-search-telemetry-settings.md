@@ -4,6 +4,8 @@ title: Managing search telemetry settings
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 nav_order: 30
+redirect_from: /analytics/opensearch-dasboard/manage-search/
+permalink: /analytics/opensearch-dasboard/manage-search/index.html
 ---
 
 # Managing search telemetry settings

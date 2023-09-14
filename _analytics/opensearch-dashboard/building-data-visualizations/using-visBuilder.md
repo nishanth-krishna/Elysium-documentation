@@ -4,6 +4,8 @@ title: Using VisBuilder
 parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 nav_order: 17
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/using-vizbuilder/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/using-vizbuilder/index.html
 ---
 
 # Using VisBuilder

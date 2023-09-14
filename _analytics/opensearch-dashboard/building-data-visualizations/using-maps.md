@@ -4,6 +4,8 @@ title: Using maps
 parent: Using coordinate and region maps
 grand_parent: Building data visualizations
 nav_order: 13
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/using-maps/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/using-maps/index.html
 ---
 
 # Using maps

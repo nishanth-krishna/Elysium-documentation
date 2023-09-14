@@ -5,8 +5,8 @@ nav_order: 12
 parent: Opensearch Dashboard
 # grand_parent: Log Analytics
 has_children: true
-redirect_from:
-  - /documentation/log-analytics/opensearch-dashboard/building-data-visualizations
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/index.html
 ---
 
 # Building data visualizations

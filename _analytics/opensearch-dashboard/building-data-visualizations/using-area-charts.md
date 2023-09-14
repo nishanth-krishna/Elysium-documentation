@@ -4,6 +4,8 @@ title: Using area charts
 parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 nav_order: 123
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/using-areacharts/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/using-areacharts/index.html
 ---
 
 # Using area charts

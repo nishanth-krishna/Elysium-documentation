@@ -4,6 +4,8 @@ title: Scheduling reports with the cron utility
 parent: Creating reports with the Reporting CLI
 grand_parent: Opensearch Dashboard
 nav_order: 20
+redirect_from: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/schedule-cron-reports/
+permalink: /analytics/opensearch-dashboard/creating-reports-with-the-reporting-cli/schedule-cron-reports/index.html
 ---
 
 # Scheduling reports with the cron utility

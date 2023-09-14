@@ -5,6 +5,7 @@ nav_order: 50
 has_children: false
 redirect_from: /configure/stack-managements/
 has_toc: false
+permalink: /configure/stack-managements/index.html
 ---
 
 # Elysium Stack Managements

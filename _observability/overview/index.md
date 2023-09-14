@@ -4,6 +4,7 @@ title: Overview
 nav_order: 50
 has_children: false
 redirect_from: /observability/overview/
+permalink: /observability/overview/index.html
 has_toc: false
 ---
 

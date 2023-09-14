@@ -4,6 +4,8 @@ title: Managing Index
 parent: Discover
 # grand_parent: Log Analytics
 nav_order: 10
+redirect_from: analytics/discover/manage-index/
+permalink: /analytics/discover/manage-index/index.html
 ---
 
 # Managing Index

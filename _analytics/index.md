@@ -6,6 +6,7 @@ has_children: false
 redirect_from: /analytics
 has_toc: false
 nav_exclude: true
+permalink: /analytics/index.html
 ---
 
 # Elysium Analytics

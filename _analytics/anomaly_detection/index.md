@@ -5,6 +5,7 @@ nav_order: 50
 has_children: false
 redirect_from: /analytics/anomaly-detection/
 has_toc: false
+permalink: /analytics/anomaly-detection/index.html
 ---
 
 

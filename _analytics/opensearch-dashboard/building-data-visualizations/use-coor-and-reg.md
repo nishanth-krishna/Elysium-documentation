@@ -6,8 +6,8 @@ parent: Building data visualizations
 grand_parent: Opensearch Dashboard
 has_children: true
 has_toc: false
-redirect_from:
-  - /documentation/log-analytics/opensearch-dashboard/building-data-visualizations/using-coordinate-and-region-maps
+redirect_from: /analytics/opensearch-dashboard/building-data-visualizations/using-coor-maps/
+permalink: /analytics/opensearch-dashboard/building-data-visualizations/using-coor-maps/index.html
 ---
 
 

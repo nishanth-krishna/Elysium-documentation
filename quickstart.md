@@ -3,9 +3,8 @@ layout: default
 title: Quickstart
 parent: Elysium documentation
 nav_order: 3
-redirect_from: 
-  - /opensearch/install/quickstart/
-permalink: /quickstart.html
+redirect_from:  /documentation/quickstart/
+permalink: /documentation/quickstart.html
 ---
 
 # Quickstart
